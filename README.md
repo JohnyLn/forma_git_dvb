@@ -34,5 +34,3 @@ Il y a beaucoup de clients pour GIT, je peux vous conseiller **SourceTree** and 
 
 - [GitKraken](https://www.gitkraken.com/download)
 - [SourceTree](https://www.sourcetreeapp.com/)
-
-
