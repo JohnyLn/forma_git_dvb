@@ -1,4 +1,10 @@
-# Some setup to do before starting up Git Course
+# Initiation à l'utilisation de git, github et le langage Markdown
+
+## Introduction de la formation
+
+> Cette formation a été conçu sur la base de la formation de l'association de robotique [DaVinciBot](http://davincibot.org/) rédigé par le [Directeur Formation 2020-2021](https://github.com/Leo-CICAL).
+
+La formation a été donné directement aux membres de **l'équipe Systèmes Embarqués 2020 2021** de l'association d'automobile [Vinci Eco Drive](https://vinciecodrive.fr/).
 
 ## 1. Installer Visual Studio Code
 
